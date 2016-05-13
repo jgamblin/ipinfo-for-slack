@@ -6,7 +6,7 @@ Custom slash command to use info.io to get IP information inside of Slack
 
 * A custom slash command on a Slack team
 * A web server running PHP5 with cURL enabled
-* A valid SSL certificate for your web server (not self-signed)
+* A valid SSL certificate for your web server (use https://letsencrypt.org/)
 
 ## USAGE
 
