@@ -1,4 +1,4 @@
-# ipinfo-for-slack
+## ipinfo-for-slack
 
 Custom slash command to use info.io to get IP information inside of Slack
 
@@ -23,3 +23,7 @@ Custom slash command to use info.io to get IP information inside of Slack
 
 This is built off of the work of isitup-for-slack. Check out their stuff:
 https://github.com/mccreath/isitup-for-slack/
+
+## WARNING
+
+Programing might be science; but that's not what I do. I'm a hacker, not a programmer.
